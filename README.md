@@ -5,11 +5,7 @@ This is the requeriments to run it, just a few python modules, i'll list them he
 
 Commnands:
 
-pip install click
-pip install numpy
-pip install pandas
-pip install playsound
-pip install pygame
+pip install click numpy pandas playsound pygame
 
 Now, if u use arch linux run this command:
 
