@@ -1,5 +1,7 @@
 # gindous-13-ymmstallllerr
-This is the totally official windows 13 with electricity manipulation support annnnd with telekinesis :O (This is a joke virus, just to scare your friends or something)
+This is the totally official windows 13 with electricity manipulation support annnnd with telekinesis :O (This is a joke virus, just to scare your friends or something.)
+
+What this thing does is just turning off the computer after a few minutes imitating a windows 13 installer.
 
 This is the requeriments to run it, just a few python modules, i'll list them here.
 
